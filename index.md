@@ -5,7 +5,7 @@
 layout: default
 ---
 
-# Conheça a FCar
+## Conheça a FCar
 A **FCar** é a ideia de um aplicativo de transporte, porém sem taxas.
 
 **Ta, mas qual a jogada?**
