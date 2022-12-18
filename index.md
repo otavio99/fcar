@@ -28,5 +28,4 @@ Segundo, a FCar deseja oferecer funcionalidades mais avançadas por um preço si
 
 Uso um dos seguintes contatos para entrar na lista:
 
-**Whatsapp:** 67 9 9823-6387
-**Email:** onsolucaosoftware@gmail.com
+**Whatsapp:** 67 9 9823-6387 / **Email:** onsolucaosoftware@gmail.com
