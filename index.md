@@ -5,16 +5,28 @@
 layout: default
 ---
 
-# Soon
+# Conheça a FCar
+A **FCar** é a ideia de um aplicativo de transporte, porém sem taxas.
 
-A simple *coming soon* page built for [Jekyll](https://jekyllrb.com/docs/).
+**Ta, mas qual a jogada?**
 
-## What's in it?
+Para os motoristas, tá difícil tirar uma boa renda nos aplicativos populares devido às **taxas** fixas e por corrida. A tendência é só **aumentar**.
 
-Soon is a single static page with a full-screen image, nothing more. Remember those *under construction* sites? The point is to show a quick message or a temporary contact page to your visitors. Use this template for a few hours to a few days while you are building your site in the background. Since the page comes with a Jekyll environment, you can host it for free on GitHub.
+Para os passageiros também não ta fácil, o preço tem aumentado e ja está quase no ponto de ser os mesmo preços de uma passagem de táxi tradicional.
+
+Então, tendo isso em vista, a **FCar** pretende se livrar das taxas, possibilitando o mesmo serviço de forma completamente gratuita.
+
+**E o que a FCar ganha com isso?**
+
+Primeiro, uma oportunidade de entrar no mercado e oferecer uma nova experiência para ambos motorista e passageiro.😁
+
+Segundo, a FCar deseja oferecer funcionalidades mais avançadas por um preço simbólico. Isto é, caso o passageiro ou motorista tenha interesse em ter acesso extra a algumas funcionalidades especiais, poderão assinar planos premium.
 
 ***
 
-## Get started
+## Entre na lista de espera
 
-[README](https://github.com/YJPL/soon/blob/master/README.md) Get [Soon](https://github.com/YJPL/soon/).
+Uso um dos seguintes contatos para entrar na lista:
+
+**Whatsapp:** 67 9 9823-6387
+**Email:** onsolucaosoftware@gmail.com

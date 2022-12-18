@@ -31,7 +31,7 @@ body {
 	min-width: 50%;
 	min-height: 50%;
 	}
-	
+
 #container {
 	margin: 20px auto;
 	max-width: 600px;
@@ -67,7 +67,6 @@ h1 {
 	font-size: 48px;
 	line-height: 1.5;
 	font-weight: 700;
-	text-transform: uppercase;
 	}
 
 h2 {
@@ -115,7 +114,7 @@ a:active{
 .task-list {
 	list-style: none;
 	}
-		
+
 /**
  * Site footer
  */
@@ -153,3 +152,20 @@ a:active{
 .social-media-list .icon {
 	vertical-align: text-top;
 	}
+
+
+@media only screen and (max-width: 600px) {
+	.responsive {
+		margin: 10px;
+	  width: 100%;
+	  height: auto;
+		float: right;
+	}
+}
+
+.responsive {
+	margin: 10px;
+	width: 70%;
+	height: auto;
+	float: right;
+}
